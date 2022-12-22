@@ -1,0 +1,128 @@
+.header {
+    background-color: rgb(143, 143, 143);
+    width: 50px;
+    height: 50px;
+    border-radius: 25px 25px 25px 25px;
+
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header:hover {
+    color: black;
+}
+
+.main {
+    width: 1328px;
+    height: 80px;
+    background-color: rgb(250, 250, 218);
+    padding: 10px;
+}
+
+.image {
+    margin-top: -80px;
+    margin-left: 250px;
+    display: flex;
+    gap: 30px;
+}
+
+.input {
+    border-radius: 15px 15px 15px 15px;
+    width: 420px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.wifi {
+    width: 40px;
+    margin-bottom: -17px;
+}
+
+.nav {
+    background-color: rgb(236, 250, 255);
+    width: 500px;
+    height: 500px;
+    margin-top: 45px;
+    margin-left: 5px;
+}
+
+.car {
+    border-radius: 25px 25px 25px 25px;
+    position: absolute;
+    top: 170px;
+    left: 20px;
+    width: 50px;
+}
+
+.cartoon {
+    border-radius: 15px 15px 15px 15px;
+    width: 50px;
+    position: absolute;
+    top: 240px;
+    left: 20px;
+}
+
+.flower {
+    border-radius: 15px 15px 15px 15px;
+    width: 50px;
+    position: absolute;
+    top: 310px;
+    left: 20px;
+}
+
+.mosque {
+    border-radius: 15px 15px 15px 15px;
+    width: 50px;
+    position: absolute;
+    top: 370px;
+    left: 20px;
+}
+
+.pubg {
+    border-radius: 15px 15px 15px 15px;
+    width: 50px;
+    position: absolute;
+    top: 430px;
+    left: 20px;
+}
+
+.teacher {
+    border-radius: 15px 15px 15px 15px;
+    width: 50px;
+    position: absolute;
+    top: 500px;
+    left: 20px;
+}
+.png{
+    margin-top: -610px ;
+    margin-left: 120px ;
+}
+.head1:hover{
+    background-color: rgb(127, 127, 255);
+    width: 200px;
+    border-radius: 15px 15px 15px 15px;
+
+}
+.centre{
+    margin-top: -360px;
+    margin-left:290px ;
+}
+.one:hover{
+    background-color: rgb(218, 218, 255);
+    border-radius: 15px 15px 15px 15px;
+    width: 90px;
+}
+.whatapp{
+    width: 800px;
+    position: absolute;
+    top:110px ;
+    left:520px ;
+}
+
+
+
+
